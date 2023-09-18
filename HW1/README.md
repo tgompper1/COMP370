@@ -1,0 +1,2 @@
+It seems that some tweets are exactly duplicated and thus being counted twice, for example rows 311 and 312.
+I also think quoted tweets (when a tweet references another tweet) are unnecessarily being counted twice, for example rows 295 and 296.
