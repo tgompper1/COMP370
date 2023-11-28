@@ -1,0 +1,6 @@
+{
+  "degree": ["twinkleshine", "spike", "rainbow dash"],
+  "weighted_degree": ["narrator", "twilight sparkle", "rainbow dash"],
+  "closeness": ["narrator", "twinkleshine", "spike"],
+  "betweenness": ["narrator", "twinkleshine", "twilight sparkle"]
+}
